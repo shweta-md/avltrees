@@ -1,2 +1,2 @@
 # avltrees
-AVL Trees code in c to insert delete in OpenGL
+AVL Trees code in c language to insert and delete the nodes in OpenGL
